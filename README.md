@@ -182,13 +182,13 @@ Customer_Churn_Prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/HoDoR07/-Customer-Churn-Prediction.git
 ```
 
 ### 2. Open the Project Folder
 
 ```bash
-cd Customer_Churn_Prediction
+cd -Customer-Churn-Prediction
 ```
 
 ### 3. Create a Virtual Environment
@@ -243,6 +243,6 @@ Through this project, I learned:
 
 ## Author
 
-**Your Name**
+Raushan Kumar
 
 Machine Learning Project – Customer Churn Prediction
